@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: LightGray;
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: #00237d;
+    padding-left: 100px;
+    padding-bottom: 4px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;    
+} 
+
+.myButton{
+    background color: chartreuse;
+    font-size: 15px;
+}
+
+.myButton:hover{
+    border-radius: 2px;
+    cursor: pointer;
+	background:orange;
+}
+
+.register{
+        text-align: center;
+        background-color: firebrick;
+        width: 450px;
+        margin: 0px 0px 0px 450px;
+        color: white;
+        font-size: 18px;
+        padding: 20px;
+        border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: LightGray;
+}
+
+h1{
+    text-align: center;
+    font-family: serif;
+    color: rebeccapurple;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    padding-top: 100px;
+}
+
+.register{
+        text-align: center;
+        background-color: darkblue;
+        width: 450px;
+        margin: 0px 0px 0px 450px;
+        color: white;
+        font-size: 18px;
+        padding: 20px;
+        margin-bottom: 30px;
+        margin-right: 20px;
+        border-radius: 10px;
+}
