@@ -54,7 +54,6 @@ Pillow==9.0.0
 prometheus-client==0.11.0
 prompt-toolkit==3.0.19
 pycparser==2.20
-pygame==2.0.1
 Pygments==2.9.0
 pyparsing==2.4.7
 pyrsistent==0.18.0
